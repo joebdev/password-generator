@@ -42,6 +42,7 @@ button {
     background-color: #10b981;
     margin-left: 52px;
     border: none;
+    cursor: pointer;
 }
 
 .divider {
@@ -70,4 +71,16 @@ button {
     font-weight: 500;
     font-size: 16px;
     margin-top: 10px;
+    padding-left: 0;
+    text-align: center;
+}
+
+#password2 {
+    color: #55f991;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 16px;
+    margin-top: 10px;
+    padding-left: 0;
+    text-align: center;
 }
